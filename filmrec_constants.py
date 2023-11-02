@@ -1,0 +1,6 @@
+CSV_PATH = r'data\ratings.csv'
+USERS_PICKLE_PATH = r'data\users.pickle'
+ADMIN_OPTIONS_PATH = r'data\admin_options.txt'
+MENU_OPTIONS_PATH = r'data\menu_options.txt'
+ADMIN_USER = 'ADMIN'
+ADMIN_PASSWORD = 'israelicyber'

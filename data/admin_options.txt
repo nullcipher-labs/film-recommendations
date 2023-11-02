@@ -1,0 +1,7 @@
+Please select an option:
+1. Add a user
+2. Remove a user
+3. Change password of a user
+4. Add a film
+5. Remove a film
+6. Exit
